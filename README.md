@@ -3,6 +3,11 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Frankpromise)
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Frankpromise&repo=100-python-projects)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Frankpromise&repo=Devops-internship-task)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Frankpromise&repo=Terraform-aws-projects)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Frankpromise&repo=object-oriented-programming-project)
+
+
 
 
 - 🔭I am currently working on building a Fast API and and dockerizing it, creating a CICD pipeline and using pytest for testing
