@@ -12,13 +12,13 @@
 
 - 🔭I am currently working on building a Fast API and and dockerizing it, creating a CICD pipeline and using pytest for testing
 
-- 🌱 I’m currently learning Python, JavaScript, C#, SQL,GCP, AWS for machine learning
+- 🌱 I’m currently learning Go, GCP, Kubernetes, Networking
 
 - 👯 I’m looking to collaborate on Python projects, AWS projects, containers, kubernetes
 
-- 🤔 I’m looking for help with Kubernetes
+- 🤔 I’m looking for help with Go language
 
-- 💬 Ask me about Python and docker, terraform
+- 💬 Ask me about Python and docker, terraform, kubernetes
 
 - 😄 Pronouns: She/Her
 
@@ -32,4 +32,4 @@ Find Me:
 
 My Skills: 🚀
 
-`Python`  `Github` `Low Code App Development`  `AWS machine learning and cloud engineering`  `Kubernetes`  `Terraform` `CICD Docker` `Ansible` `CloudFormation` `Bash scripting` `Python scripting` `shell scripting`
+`Python`  `Github`   `cloud engineering`  `Kubernetes`  `Terraform` `CICD Docker` `Ansible` `CloudFormation` `Bash scripting` `Python scripting` `shell scripting`
