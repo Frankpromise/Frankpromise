@@ -33,3 +33,5 @@ Find Me:
 My Skills: 🚀
 
 `Python`  `Github`   `cloud engineering`  `Kubernetes`  `Terraform` `CICD Docker` `Ansible` `CloudFormation` `Bash scripting` `Python scripting` `shell scripting`
+My Resume:
+![Resume](https://github.com/Frankpromise/MyResume/blob/master/myresume.tex)
