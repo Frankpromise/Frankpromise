@@ -9,12 +9,7 @@ h1 align="center">Hi, I'm Promise 👋</h1>
 ---
  
 ### 🚀 About Me
- 
-- 🔭 Currently building a **FastAPI** app — dockerized, tested with **pytest**, shipped through a **CI/CD pipeline**
-- 🌱 Learning **Go**, **GCP**, **Kubernetes**, and **Networking**
-- 👯 Open to collaborating on **Python**, **AWS**, and **container/Kubernetes** projects
-- 💬 Ask me about **Python, Docker, Terraform, Kubernetes**
-- 🤔 Looking for help with **Go**
+- 💬 Ask me about **Python, Docker, Terraform, Kubernetes, Github actions Gitlabci nats azure holmesgpt agents mcp servers metallbs**
 - 😄 Pronouns: She/Her
 - 📍 Nürnberg, Germany
 ### 🛠️ Tech Stack
